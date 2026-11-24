@@ -1,0 +1,14 @@
+﻿# Executaveis compilados
+*.exe
+*.o
+*.out
+
+# Pasta do VS Code
+.vscode/
+
+# Arquivos temporarios
+*.tmp
+*.log
+
+# Atalhos do Windows
+*.lnk
