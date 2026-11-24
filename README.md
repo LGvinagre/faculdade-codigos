@@ -28,3 +28,4 @@ Py/
 
 **Luiz Guilherme Vinagre Ferreira**
 - GitHub: [@LGvinagre](https://github.com/LGvinagre)
+- LinkedIn: [Luiz Guilherme Vinagre Ferreira](https://www.linkedin.com/in/luiz-guilherme-vinagre-ferreira-44879b2b7/)
